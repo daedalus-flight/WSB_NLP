@@ -1,3 +1,3 @@
-### Replicating Stocks Featued in WallStreetBets Subreddit
+### Replicating Stocks Featured in WallStreetBets Subreddit
 
 In this exercise, I use Natural Language Processing to stay up to date with the number of stock mentions on this subreddit with the ultimate goal of seeing whether there is any causuality with stock prices. The idea being that a change in positive or negative comments with a particular stock will result in some sort of correlation to the stock price - positive or negative.
